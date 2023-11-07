@@ -22,13 +22,15 @@ Key features of the app include:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/yourusername/quote-of-the-day-android.git
+   git clone https://github.com/jignya/QuoteApp.git
   
 Build
+
  Open the project in Android Studio.
  Build and run the application on your Android device or emulator.
 
 Usage
+
 Open the app, and categories will be displayed on the main screen.
 When click on the category, Quote will display on next screen
 Tap the "Share with friends" button to share the current quote with your friends.
